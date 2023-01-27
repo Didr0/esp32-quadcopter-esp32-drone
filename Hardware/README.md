@@ -14,7 +14,7 @@ Here you can find: // Qui potrete trovare:
 
 
 //------------------------------------------------------------------------------------------
-## tips, notes ## // ## consigli, note ##
+// tips, notes // consigli, note //
 
   #- Each photo contains either in the name or within the version number of the project //
      Ogni foto contiene o nel nome o all'interno il numero della versione del progetto
