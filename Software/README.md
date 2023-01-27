@@ -21,3 +21,7 @@ Here you can find: // Qui potrete trovare:
   Tutto il progetto è basato su librerie pubbliche e sull' IDE di Arduino
 
 //------------------------------------------------------------------------------------------
+
+If you have any questions feel free to write in Italian or English and I will be happy to answer you. //
+
+Se avete qualunque domanda sentitevi liberi di scrivere in italiano o in inglese e sarò felice di rispondervi.
