@@ -10,7 +10,9 @@ Welcome to the hardware section // Benvenuti nella sezione dedicata all'hardware
 Here you can find: // Qui potrete trovare:
 
   -- Wiring and sensor connection diagrams // Schemi di collegamento dei cavi e dei sensori
+  
   -- Photos of the hardware // Foto dell'hardware
+  
   -- Video where I try or show the project // Video where I try or show the project
   
 
